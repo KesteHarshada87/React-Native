@@ -1,0 +1,30 @@
+prettierrc.js--used if we want to change according to format of vs code
+
+app.json---basic info about app name,etc
+app.tsx---main code is written here
+index.js--entry point file
+
+andriod folder
+
+app.jsx--type of component
+
+activity01--mobile page view make blank
+activity02--welcome to react-native app Harshada
+activity03--Create login page
+activity04--change text colour and style of welcome msg
+activity05--change background colour
+activity06--create a simple student card(name,prn,dpt,image)
+activity07--create a simple counter app
+
+assignment02--  which command creates a new react-native project?
+                what is purpose of android folder?
+                why ios folder is present on windows?
+                which file represent the main screen of your app?
+                what is purpose of package.json,diff between pachage.json and lock.json?
+                what is node-modules folder?
+                which file is entry file?
+                what is metro-builder and its use?
+                which command run the app on android?
+                how do you verify that physical android device is connected?
+                what is purpose of usb debugging?
+                what is diff between testing on an emulator and physical device?
